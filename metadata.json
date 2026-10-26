@@ -1,0 +1,6 @@
+{
+  "name": "Candy Crush Saga: Royal Confectionery",
+  "description": "An interactive match-3 puzzle game featuring special candy combinations, cascading physics, jelly and frosting blockers, boosters, and 5 progressive stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
